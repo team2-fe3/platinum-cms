@@ -1,0 +1,43 @@
+.cobain{
+    height: 100vh !important;
+}
+.add-sec {
+    background-color: #e5e5e5;
+}
+
+.add-forms {
+    background-color: white;
+}
+
+.add-title p{
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 2rem;
+}
+.add-title h1{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 2rem;
+}
+
+.add-forms{
+    padding: 1rem;
+}
+
+.btn-actions {
+    margin-top: 4rem;
+}
+.btn-cancel, .btn-cancel:hover, .btn-cancel:active, .btn-cancel:visited {
+    color: #0D28A6 !important;
+    background-color: white !important;
+    border-color: #0D28A6 !important;
+    border-radius: 2px !important;
+}
+
+.btn-save, .btn-save:hover, .btn-save:active, .btn-save:visited {
+    background-color: #0D28A6 !important;
+    border-radius: 2px !important;
+}
+
